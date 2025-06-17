@@ -1,6 +1,6 @@
 <div align="center">
-  <img align="left" src="./assets/brilho.png" width="21%" style="display:inline;">
-  <img align="right" src="./assets/brilho.png" width="21%" style="display:inline;">
+  <img align="left" src="./assets/brilho.gif" width="21%" style="display:inline;">
+  <img align="right" src="./assets/brilho.gif" width="21%" style="display:inline;">
   
   <p align="center">
     <img alt="mandy1" width="220" src="./assets/mandy1.png" style="border-radius: 50%; border: 3px solid #9d4edd;">
