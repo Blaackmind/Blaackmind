@@ -64,6 +64,7 @@ Se quiser realizar um projeto comigo (ou apenas bater um papo), não hesite em m
 
 ## 🌱 Atualmente Aprendendo
 - Kotlin para desenvolvimento Android
+- React Native para desenvolvimento mobile
 - Arquitetura de Microsserviços
 - SpringBoot
 
